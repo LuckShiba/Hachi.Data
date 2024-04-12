@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hachi.Data", "Hachi.Data\Hachi.Data.csproj", "{14A23D38-FDE5-42A9-8C6A-830FFF0598EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5A3198CC-F4BA-44B2-8F9A-2B7383580D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A23D38-FDE5-42A9-8C6A-830FFF0598EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A23D38-FDE5-42A9-8C6A-830FFF0598EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A23D38-FDE5-42A9-8C6A-830FFF0598EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A23D38-FDE5-42A9-8C6A-830FFF0598EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3198CC-F4BA-44B2-8F9A-2B7383580D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3198CC-F4BA-44B2-8F9A-2B7383580D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3198CC-F4BA-44B2-8F9A-2B7383580D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3198CC-F4BA-44B2-8F9A-2B7383580D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
